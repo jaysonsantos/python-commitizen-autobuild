@@ -1,0 +1,2 @@
+# use this file so renovate knows when to bump
+commitizen==2.4.0
